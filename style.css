@@ -16,6 +16,8 @@
   height: 40vh;
   width: 4px;
   background-color: #272630;
+  border-radius: 10px;
+  top: -6px;
 }
 .middle img {
   max-width: 35px;
